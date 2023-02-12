@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaif Imteyaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaif-imteyaz&show_icons=true&locale=en" alt="kaif-imteyaz" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaif-imteyaz&label=Profile%20views&color=0e75b6&style=flat" alt="kaif-imteyaz" /> </p>
