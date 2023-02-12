@@ -1,4 +1,3 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/Kaif-Imteyaz)
 <h1 align="center">Hi 👋, I'm Kaif Imteyaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="gif">
