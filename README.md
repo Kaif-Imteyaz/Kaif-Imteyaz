@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kaifimteyaz.k@gmail.com**
 
-- ⚡ Fun fact ** A program is never less than 90% complete and never more than 95% complete.**
+- ⚡ Fun fact **A program is never less than 90% complete and never more than 95% complete.**
 
 
 <h3 align="left">Connect with me:</h3>
