@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **NODE JS**
 
-- 💬 Ask me about **web development, Java**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **kaifimteyaz.k@gmail.com**
 
-- ⚡ Fun fact ** I am not a robot**
+- ⚡ Fun fact ** A program is never less than 90% complete and never more than 95% complete.**
 
 
 <h3 align="left">Connect with me:</h3>
