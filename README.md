@@ -29,6 +29,5 @@
 </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kaif-imteyaz&show_icons=true&locale=en" alt="kaif-imteyaz" /> </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-imteyaz&" alt="kaif-imteyaz" /> </p>
-<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif-imteyaz&show_icons=true&locale=en&layout=compact" alt="kaif-imteyaz"/></p>
 
