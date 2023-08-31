@@ -7,9 +7,9 @@
 <div align="center">A full-stack developer </div>
 <br/>
 <br/>
-<div align="center">
+<!-- <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FES4Vcv8zWfIt2%2Fgiphy.gif&f=1&nofb=1&ipt=1affeb59ecf047230ce71d9212b7d5927bb279265bd8a3081030d4b55785fd13&ipo=images" align="center" height="100" width="100"  />
-</div>  
+</div>   -->
 <br/>
 <br/>  
 
