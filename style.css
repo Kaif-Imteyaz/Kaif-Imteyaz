@@ -25,18 +25,18 @@ footer {
 }
 
 #address {
-    margin-left: 65%;
+    margin-left: 62%;
 }
 #address-iiitd{
-    margin-left: 77%;
+    margin-left: 74%;
 }
 
 #address-dip {
-    margin-left: 61%;
+    margin-left: 58%;
 }
 
 #address-schl {
-    margin-left: 46.5%;
+    margin-left: 43.5%;
 }
 
 li {
@@ -62,18 +62,18 @@ li {
 }
 
 #year {
-    margin-left: 48.5%
+    margin-left: 45%
 }
 
-#year-iitd{
-    margin-left: 53.5%;
+#year-iiitd{
+    margin-left: 50%;
 }
 #year-dip {
-    margin-left: 51%
+    margin-left: 48%
 }
 
 #year-schl {
-    margin-left: 69%
+    margin-left: 65%
 }
 
 .exp-cont1 {
@@ -81,15 +81,15 @@ li {
 }
 
 #exp-time1 {
-    margin-left: 40.7%;
+    margin-left: 37%;
 }
 
 #exp-time2 {
-    margin-left: 35%;
+    margin-left: 32%;
 }
 
 #exp-time3 {
-    margin-left: 33%;
+    margin-left: 30%;
 }
 
 #company {
@@ -179,57 +179,4 @@ a {
 
 #work-para{
     margin-top: -1.5%;
-}
-@media only screen and (max-width: 600px) {
-    body {
-        padding: 10px;
-    }
-    
-    .education-details li,
-    .skills-container li {
-        display: block;
-        margin-bottom: 10px;
-    }
-
-    .education-details p,
-    .skills-container p {
-        margin-top: 0;
-        margin-bottom: 10px;
-    }
-
-    li,
-    .course-details .year,
-    #year,
-    #year-dip,
-    #year-schl,
-    #year-iiitd,
-    .exp-cont1,
-    #exp-time1,
-    #exp-time2,
-    #exp-time3,
-    #company,
-    hr {
-        margin-left: 0 !important;
-    }
-
-    .education-details h3 {
-        margin-top: 10px;
-    }
-
-    .education-details .course-details {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .education-details .course-details .year {
-        margin-left: 0;
-        margin-top: 5px;
-    }
-
-    #address,
-    #address-dip,
-    #address-iiitd,
-    #address-schl {
-        margin: 0;
-    }
 }
