@@ -1,0 +1,229 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #F9F5F0;
+    color: #3F3F3F;
+}
+
+#sub-head,
+#link,
+#first {
+    margin-top: -2%;
+}
+
+header,
+footer {
+    color: #000;
+    padding: 20px;
+    text-align: center;
+}
+
+#college {
+    flex-grow: 1;
+}
+
+#address {
+    margin-left: 69.1%;
+}
+
+
+#address-dip {
+    margin-left: 65.4%;
+}
+
+#address-schl {
+    margin-left: 52.5%;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.education-details {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+}
+
+.course-details {
+    display: flex;
+    align-items: center;
+    margin-top: -10px;
+}
+
+.course-details .year {
+    margin-left: 5px;
+}
+
+#year {
+    margin-left: 54.2%
+}
+
+#year-dip {
+    margin-left: 56.5%
+}
+
+#year-schl {
+    margin-left: 72.8%
+}
+
+.exp-cont1 {
+    margin-top: -1%;
+}
+
+#exp-time1 {
+    margin-left: 47.4%;
+}
+
+#exp-time2 {
+    margin-left: 42.5%;
+}
+
+#exp-time3 {
+    margin-left: 40.6%;
+}
+
+#company {
+    margin-top: -2%;
+}
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #000;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0f16e7;
+    text-decoration: none;
+}
+
+.edu {
+    margin-top: -3%;
+}
+
+#exp-bullet {
+    list-style-type: none; 
+    /* padding-left: 20px; */
+}
+
+#exp-bullet li {
+    position: relative;
+    padding-left: 1.5em; 
+}
+
+#exp-bullet li::before {
+    content: '\2022'; 
+    position: absolute;
+    left: 0;
+    color: #000; 
+}
+
+.skills-container {
+    margin-top: -10px;
+}
+
+.skills-container ul {
+    padding-left: 0;
+}
+
+.skills-container h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.skills-container ul ul {
+    margin-top: 5px;
+    margin-left: 0;
+}
+
+.skills-container ul ul li {
+    display: flex;
+    align-items: center;
+}
+
+.skills-container ul ul li:before {
+    content: '▪';
+    margin-right: 5px;
+}
+
+#submit{
+    margin-top: -5%;
+}
+
+#work-para{
+    margin-top: -1.5%;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    
+    .education-details li,
+    .skills-container li {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .education-details p,
+    .skills-container p {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    li,
+    .course-details .year,
+    #year,
+    #year-dip,
+    #year-schl,
+    .exp-cont1,
+    #exp-time1,
+    #exp-time2,
+    #exp-time3,
+    #company,
+    hr {
+        margin-left: 0 !important;
+    }
+
+    .education-details h3 {
+        margin-top: 10px;
+    }
+
+    .education-details .course-details {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .education-details .course-details .year {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    #address,
+    #address-dip,
+    #address-schl {
+        margin: 0;
+    }
+}
